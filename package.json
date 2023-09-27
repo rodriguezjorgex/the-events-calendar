@@ -90,7 +90,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "@babel/runtime": "^7.15.3",
+    "@babel/runtime": "^7.22.15",
     "@moderntribe/common": "file:common/src/modules",
     "@moderntribe/events": "file:src/modules",
     "@nfen/redux-reducer-injector": "0.0.3",
