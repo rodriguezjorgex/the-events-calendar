@@ -98,7 +98,7 @@
     "@wordpress/data": "^1.1.0",
     "@wordpress/i18n": "^1.2.2",
     "@wordpress/is-shallow-equal": "^1.1.4",
-    "@wordpress/url": "1.0.0",
+    "@wordpress/url": "1.2.3",
     "bezier-easing": "^2.1.0",
     "chrono-node": "^2.2.4",
     "classnames": "^2.2.6",
